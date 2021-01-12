@@ -1,10 +1,9 @@
 ## Tasks
-Dash (-) equals pending, Cross (x) equals done
 
 ## Sprint 1 - (10/01-16/01)
-x Plot data scatterplot
-x Plot data boxplot
-x Test Pearson correlation
+- (Done) Plot data scatterplot
+- (Done)Plot data boxplot
+- (Done)Test Pearson correlation
 - Find way to deal with NaN values
 - Re-check the problems if they correct
 
