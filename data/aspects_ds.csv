@@ -1,0 +1,201 @@
+name,id,creativity,financial,publisher,team,score,business,management-feature,management-people,production
+Skittleball,136,TRUE,TRUE,TRUE,NA,42,0,0,2,3
+NFL RUSH Heroes and Rivals,94,NA,FALSE,TRUE,NA,42,0,1,1,2
+Music Up,89,TRUE,FALSE,TRUE,NA,42,0,3,0,1
+Amazia,5,TRUE,TRUE,TRUE,NA,42,2,0,2,1
+Knightly Adventure,73,NA,TRUE,TRUE,NA,45,1,0,1,3
+Guns of Icarus,62,FALSE,TRUE,TRUE,NA,47,0,0,0,0
+Tower Bloxx,181,TRUE,TRUE,TRUE,NA,62,0,1,1,1
+Conduit,27,TRUE,FALSE,FALSE,NA,64,0,0,0,0
+Crazy Taxi Fare Wars,29,FALSE,FALSE,FALSE,NA,64,0,1,2,1
+"Slow Down, Bull",137,TRUE,TRUE,TRUE,NA,65,0,1,1,4
+Middle-earth: Shadow of Mordor,84,FALSE,FALSE,FALSE,NA,68,0,3,1,0
+Tasmanian Tiger 2,162,NA,FALSE,FALSE,NA,68,0,0,0,2
+Ashes of the Singularity,8,TRUE,TRUE,FALSE,NA,69,1,2,1,1
+MotoGp '07,88,NA,FALSE,FALSE,NA,70,0,0,0,0
+City Conquest,25,FALSE,TRUE,TRUE,NA,70,2,0,1,2
+Amnesia: A Machine for Pigs,6,NA,TRUE,FALSE,NA,72,1,0,2,5
+Zoo Tycoon 2 Marine mania,200,NA,TRUE,FALSE,NA,74,0,0,0,0
+Chili Con Carnage,23,NA,NA,FALSE,NA,74,0,1,0,2
+Offworld Trading Company,99,NA,TRUE,FALSE,NA,78,2,0,0,3
+The Blackwell Convergence,166,TRUE,TRUE,TRUE,NA,79,2,1,2,1
+God of War Ascension,59,FALSE,FALSE,TRUE,NA,80,0,0,0,0
+MotoGP '06,87,NA,FALSE,FALSE,NA,80,0,0,0,0
+Hero-U: Rogue to Redemption,66,FALSE,FALSE,TRUE,NA,80,2,2,0,1
+Kingdoms of Amalur: Reckoning,71,FALSE,TRUE,FALSE,NA,81,0,2,2,3
+Dark sun online crimson sands,33,FALSE,FALSE,TRUE,NA,82,0,0,0,0
+Ori and the Blind Forest,102,NA,NA,FALSE,NA,88,0,0,1,0
+Project Gotham Racing 3,108,NA,FALSE,FALSE,NA,88,0,0,1,3
+Baldur's Gate 2,10,NA,FALSE,FALSE,NA,95,0,0,0,0
+Resident Evil 4,118,TRUE,FALSE,TRUE,NA,96,0,0,0,2
+Tony Hawk's pro skater (port),177,FALSE,FALSE,FALSE,NA,97,0,0,0,0
+Bioshock,14,TRUE,TRUE,TRUE,239,96,0,1,1,3
+Deadliest Warrior,37,NA,TRUE,FALSE,190,61,1,1,1,2
+Timeshift,174,NA,FALSE,FALSE,142,70,0,0,0,0
+Matt Hazard,82,NA,TRUE,FALSE,123,64,0,0,0,0
+Tomb Raider Underworld,176,FALSE,FALSE,FALSE,99,72,0,0,0,0
+Tom Clancy Splinter Cell,175,TRUE,TRUE,TRUE,94,89,0,0,0,0
+Brutal Legend,19,FALSE,FALSE,FALSE,83,83,0,0,0,0
+Indigo Prophecy,67,NA,TRUE,FALSE,80,84,0,0,1,3
+Uncharted Drakes Fortune,188,FALSE,FALSE,FALSE,76,88,0,1,1,3
+Call of Duty 2,20,FALSE,FALSE,FALSE,75,88,0,0,2,1
+Neverwinter Nights,93,FALSE,TRUE,FALSE,75,91,0,2,0,5
+The suffering,171,NA,FALSE,FALSE,72,79,0,0,0,0
+Crackdown,28,NA,TRUE,FALSE,71,83,0,2,2,2
+Lords of the Fallen,77,NA,NA,FALSE,65,71,0,1,2,2
+Scooby-Doo First frights,129,NA,TRUE,FALSE,64,74,0,0,0,0
+Okamiden,100,NA,TRUE,TRUE,59,82,1,1,2,2
+Uncharted: Golden Abyss,189,FALSE,FALSE,TRUE,55,80,0,2,2,2
+Dust: An Elysian Tale,46,TRUE,TRUE,FALSE,55,83,0,0,0,0
+Scarface: The World is Yours,127,NA,TRUE,FALSE,54,75,0,0,0,0
+Rollers of the realm,124,FALSE,TRUE,FALSE,52,65,0,0,0,0
+Tropico 5,187,NA,FALSE,FALSE,50,74,0,0,0,4
+Warhammer: End Times - Vermintide,193,TRUE,TRUE,TRUE,50,76,0,0,0,0
+Gabriel Knight 3,52,NA,TRUE,TRUE,48,80,0,2,2,2
+Dead Head Fred,35,NA,FALSE,FALSE,45,75,1,1,2,2
+Rise of Nations,120,NA,TRUE,FALSE,42,89,0,0,1,2
+The x-files,172,NA,FALSE,FALSE,41,56,0,0,0,0
+Ratchet & Clank,112,FALSE,FALSE,FALSE,41,85,0,3,2,2
+Big Mutha Truckers,12,NA,FALSE,FALSE,40,61,0,1,1,2
+Star Wars Starfighter,151,TRUE,TRUE,TRUE,40,84,0,1,1,2
+Command and Conquer: Tiberian Sun,26,NA,TRUE,FALSE,40,86,0,3,1,2
+Diablo 2,41,TRUE,TRUE,TRUE,40,88,0,0,0,0
+Age of Empires 2: Age of Kings,4,FALSE,FALSE,FALSE,40,92,0,0,0,0
+Trespasser,183,FALSE,FALSE,FALSE,39,72,0,0,0,3
+Sanitarium,126,FALSE,TRUE,FALSE,37,86,0,1,1,2
+A Boy and His Blob,1,NA,TRUE,FALSE,35,80,0,1,2,4
+Jak And Daxter: The Precursor Legacy,68,FALSE,FALSE,FALSE,35,90,0,0,0,0
+Star trek voyager elite force,148,FALSE,FALSE,FALSE,33,69,0,0,0,0
+Heretic II,65,NA,TRUE,FALSE,32,70,1,0,0,3
+Lost Within,78,TRUE,TRUE,TRUE,32,79,0,0,0,4
+Dungeon Siege,45,NA,FALSE,FALSE,32,86,0,1,2,2
+Star Wars Rogue Leader,150,FALSE,FALSE,FALSE,32,90,0,0,0,0
+Dark age of camelot,32,FALSE,TRUE,FALSE,30,88,0,0,0,0
+System Shock 2,161,NA,FALSE,FALSE,30,92,0,1,3,4
+Cel Damage,22,FALSE,FALSE,FALSE,28,65,0,1,1,4
+Black and White,16,FALSE,TRUE,FALSE,28,90,0,0,0,0
+Vanishing Point,192,TRUE,TRUE,TRUE,27,68,0,0,4,3
+Fallout Tactics,48,FALSE,FALSE,FALSE,27,82,0,2,2,4
+Bionic Commando Rearmed,13,NA,TRUE,FALSE,27,86,1,2,0,2
+Jurassic Park: Operation Genesis,70,NA,FALSE,FALSE,26,74,0,2,0,3
+Tron 2,185,FALSE,TRUE,FALSE,26,84,0,0,0,0
+Republique,116,TRUE,TRUE,FALSE,25,74,0,2,2,4
+Drakan: Order of the Flame,44,FALSE,FALSE,FALSE,25,88,0,1,0,3
+Never Alone,92,NA,TRUE,TRUE,24,70,0,2,0,1
+A kingdom for keflings,2,TRUE,TRUE,TRUE,24,78,0,0,0,0
+Shadow Tactics Blades of the Shogun,131,TRUE,TRUE,FALSE,23,85,0,0,0,0
+Rainbow Six,111,NA,TRUE,TRUE,22,85,0,0,1,3
+Startopia,152,NA,FALSE,FALSE,21,86,1,0,0,4
+Star trek hidden evil,147,FALSE,FALSE,FALSE,21,92,0,0,0,0
+Last Call,74,FALSE,TRUE,TRUE,20,70,0,3,1,0
+Draconus,43,FALSE,FALSE,FALSE,20,75,1,2,1,2
+The Gallery: Call of the Starseed,167,FALSE,TRUE,TRUE,20,79,1,1,0,2
+Vampire The Masquerade,191,FALSE,FALSE,FALSE,20,80,0,1,0,2
+SWAT 3,158,TRUE,TRUE,TRUE,20,83,0,0,0,0
+Soldier of Fortune,139,FALSE,FALSE,FALSE,20,84,0,2,1,1
+Wipeout Pure,198,TRUE,FALSE,TRUE,20,88,0,0,0,0
+Deus Ex,40,FALSE,TRUE,FALSE,20,90,0,1,2,2
+Heavy Gear 2,63,FALSE,FALSE,FALSE,20,94,0,2,1,2
+Heavy Metal F.A.K.K,64,FALSE,FALSE,FALSE,19,78,0,0,0,0
+Descent 3,39,NA,FALSE,FALSE,19,89,0,1,2,1
+Thief: The dark project,173,FALSE,TRUE,FALSE,19,92,0,0,0,0
+Wild 9,197,FALSE,TRUE,FALSE,18,72,0,3,1,1
+Natural Selection 2,91,TRUE,TRUE,TRUE,18,80,1,2,1,1
+No one lives forever,95,FALSE,FALSE,FALSE,18,91,0,0,0,0
+Sin,133,FALSE,TRUE,FALSE,17,81,0,0,1,3
+Renegade Ops,114,FALSE,TRUE,FALSE,16,79,0,2,3,1
+Trine,184,FALSE,FALSE,FALSE,16,82,0,3,3,4
+Unreal Tournament,190,FALSE,TRUE,FALSE,16,85,0,0,2,2
+Brothers in Arms,18,NA,FALSE,FALSE,15,45,0,1,1,2
+Stellaris,153,TRUE,TRUE,TRUE,15,78,0,3,1,2
+Sins of a Solar Rebellion,135,FALSE,FALSE,FALSE,15,82,0,0,0,0
+Galactic Civilizations 2: Dread Lords,54,TRUE,TRUE,FALSE,15,86,2,1,2,4
+Sins of a Solar Empire,134,FALSE,FALSE,FALSE,15,87,1,1,0,3
+Star Wars Droidworks,149,FALSE,TRUE,TRUE,15,91,0,0,0,0
+Fireteam,49,TRUE,TRUE,TRUE,14,85,0,0,1,3
+Spec Ops: Rangers Lead the Way,141,FALSE,FALSE,FALSE,13,57,0,0,0,0
+Baldur's Gate ED,11,NA,FALSE,FALSE,13,75,0,0,0,0
+Spider Man,143,NA,FALSE,FALSE,13,81,0,0,0,0
+Guacamelee,61,TRUE,TRUE,FALSE,13,86,0,1,2,3
+Romeo and Juliet,125,TRUE,TRUE,TRUE,12,42,0,0,1,3
+Trade Empires,182,FALSE,FALSE,FALSE,12,69,1,2,0,2
+Stubbs the zombie,154,TRUE,TRUE,FALSE,12,74,0,0,0,0
+Magicka,80,NA,FALSE,FALSE,12,74,0,1,1,1
+Roboblitz,121,NA,TRUE,TRUE,12,78,0,0,0,0
+Cuphead,31,NA,FALSE,TRUE,12,87,0,0,0,1
+Wik and the fable of souls,196,TRUE,TRUE,TRUE,11,81,0,0,0,0
+Tropico,186,NA,TRUE,FALSE,11,86,0,1,1,3
+Dead State,36,FALSE,TRUE,TRUE,10,70,2,2,3,3
+Goat Simulator,58,TRUE,TRUE,TRUE,10,72,0,2,0,2
+Renowned Explorers,115,TRUE,TRUE,TRUE,10,72,1,2,1,1
+Solatorobo Red The Hunter,138,NA,FALSE,FALSE,10,76,0,0,0,0
+Splosion Man,144,TRUE,TRUE,TRUE,10,84,0,2,1,1
+Operation Flashpoint,101,FALSE,FALSE,FALSE,10,85,0,0,0,0
+Resident Evil 2,117,TRUE,TRUE,TRUE,10,89,0,0,0,0
+The Italian Job,169,NA,FALSE,FALSE,9,66,0,1,1,2
+Black The Fall,17,FALSE,TRUE,FALSE,9,69,1,0,1,2
+Super Monkey Ball 2,157,NA,FALSE,FALSE,9,74,1,1,0,1
+Myth: The Fallen Lords,90,NA,TRUE,TRUE,9,91,0,1,1,1
+Pressure Overdrive,107,NA,TRUE,TRUE,8,60,2,0,0,4
+Legacy Online,76,FALSE,TRUE,FALSE,8,66,0,1,1,3
+Oasis,98,NA,TRUE,FALSE,8,72,1,0,0,3
+Toontown,178,FALSE,FALSE,FALSE,8,81,1,0,0,4
+Chop Suey Kung Fu,24,TRUE,TRUE,TRUE,7,42,0,1,1,2
+Pixeljunk,105,NA,TRUE,FALSE,7,63,0,0,0,0
+Weapon of Choice,194,TRUE,TRUE,TRUE,7,74,0,0,1,2
+Swords & Soldiers,160,NA,TRUE,TRUE,7,84,1,1,2,0
+Spacechem,140,TRUE,TRUE,TRUE,7,85,0,0,0,0
+Defense of the ancients,38,TRUE,TRUE,TRUE,7,90,0,0,0,0
+Doom,42,TRUE,TRUE,TRUE,7,90,1,1,1,2
+KleptoCats,72,NA,TRUE,TRUE,7,93,0,0,0,0
+Top Gun,179,TRUE,TRUE,TRUE,6,40,0,1,1,2
+Spellcraft School of Magic,142,NA,TRUE,TRUE,6,45,0,0,0,0
+Rocketbowl,123,TRUE,TRUE,TRUE,6,54,0,0,0,0
+Schizoid,128,TRUE,TRUE,FALSE,6,68,0,1,0,3
+Monsters (probably) Stole My Princess,86,NA,TRUE,FALSE,6,72,0,0,0,0
+The Political Machine,170,NA,FALSE,FALSE,6,72,1,1,0,4
+The Adventures of Shuggy,163,TRUE,TRUE,FALSE,6,77,0,0,0,0
+A reckless disregard for gravity,3,TRUE,TRUE,TRUE,6,81,0,0,0,0
+Sunless Sea,155,TRUE,TRUE,TRUE,6,81,0,2,0,3
+Nyxquest kindred spirits,97,TRUE,TRUE,TRUE,6,82,0,0,0,0
+The banner saga 2,164,NA,TRUE,FALSE,6,82,0,0,0,0
+Sportsfriends,145,FALSE,TRUE,TRUE,6,82,1,1,1,2
+Fished,50,TRUE,TRUE,TRUE,5,42,0,0,0,0
+Star Chamber,146,TRUE,TRUE,TRUE,5,42,2,0,0,3
+Leaving Lyndow,75,TRUE,TRUE,TRUE,5,60,1,2,0,1
+Marathon 2: Durandal (port),81,FALSE,FALSE,FALSE,5,62,0,0,0,0
+Dynasty Feud,47,TRUE,TRUE,TRUE,5,68,2,1,1,2
+Lume,79,TRUE,TRUE,TRUE,5,69,1,0,0,2
+Gish,57,FALSE,TRUE,FALSE,5,80,0,1,1,1
+Galactic Civilizations,53,TRUE,TRUE,FALSE,5,83,0,1,2,1
+Total Pro Golf,180,NA,TRUE,TRUE,4,45,0,0,0,0
+Nom 2,96,TRUE,TRUE,TRUE,4,45,0,0,0,3
+The Incredible hulk,168,NA,FALSE,FALSE,4,50,0,0,0,0
+Whacked,195,FALSE,TRUE,FALSE,4,59,0,1,2,1
+Robothorium,122,NA,NA,FALSE,4,68,1,0,2,2
+Mini Metro,85,TRUE,TRUE,TRUE,4,77,1,3,2,0
+Wireless Pets,199,NA,TRUE,FALSE,3,45,0,1,1,3
+Poncho,106,FALSE,TRUE,FALSE,3,63,0,0,0,0
+Bit Trip Beat,15,NA,TRUE,FALSE,3,80,0,0,0,0
+Frozen Synapse,51,TRUE,TRUE,TRUE,3,85,0,1,0,3
+Super Meat Boy,156,TRUE,TRUE,TRUE,3,89,1,1,2,3
+Prune,109,TRUE,TRUE,TRUE,3,92,0,2,0,2
+Red Sky,113,TRUE,TRUE,TRUE,2,42,0,0,0,0
+Sheep It Up,132,TRUE,TRUE,TRUE,2,42,1,0,0,1
+Cultist Simulator,30,TRUE,TRUE,TRUE,2,71,1,1,1,2
+Jetpack High,69,TRUE,TRUE,TRUE,2,76,2,1,0,0
+Race the Sun,110,TRUE,TRUE,TRUE,2,77,2,1,1,1
+Out There,103,TRUE,TRUE,TRUE,2,84,0,1,2,0
+The Binding of Isaac,165,TRUE,TRUE,TRUE,2,84,1,0,0,3
+Casey's Contraptions,21,TRUE,TRUE,TRUE,2,89,0,0,0,0
+Riptide GP,119,FALSE,TRUE,TRUE,2,90,1,0,1,2
+Outrealm,104,TRUE,TRUE,TRUE,1,42,1,0,1,1
+Gibbage,56,TRUE,TRUE,TRUE,1,45,0,0,1,3
+SCSIcide,130,TRUE,TRUE,TRUE,1,45,1,1,0,2
+Meganoid,83,TRUE,TRUE,TRUE,1,66,1,0,1,0
+Gorescript Classic,60,TRUE,TRUE,TRUE,1,72,0,0,0,0
+Garden Wars,55,TRUE,TRUE,TRUE,1,74,0,2,2,3
+Swing Racers,159,TRUE,TRUE,TRUE,1,80,0,0,0,0
+Das Geisterschiff,34,TRUE,TRUE,TRUE,1,80,1,3,0,2
+Armadillo Run,7,TRUE,TRUE,TRUE,1,88,1,1,0,3
+AuroraBound,9,TRUE,TRUE,TRUE,1,88,1,1,1,2
